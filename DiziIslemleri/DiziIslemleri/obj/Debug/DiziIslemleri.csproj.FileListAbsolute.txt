@@ -1,0 +1,7 @@
+C:\Users\Atilla Keskin\source\repos\DiziIslemleri\DiziIslemleri\bin\Debug\DiziIslemleri.exe.config
+C:\Users\Atilla Keskin\source\repos\DiziIslemleri\DiziIslemleri\bin\Debug\DiziIslemleri.exe
+C:\Users\Atilla Keskin\source\repos\DiziIslemleri\DiziIslemleri\bin\Debug\DiziIslemleri.pdb
+C:\Users\Atilla Keskin\source\repos\DiziIslemleri\DiziIslemleri\obj\Debug\DiziIslemleri.csprojAssemblyReference.cache
+C:\Users\Atilla Keskin\source\repos\DiziIslemleri\DiziIslemleri\obj\Debug\DiziIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Atilla Keskin\source\repos\DiziIslemleri\DiziIslemleri\obj\Debug\DiziIslemleri.exe
+C:\Users\Atilla Keskin\source\repos\DiziIslemleri\DiziIslemleri\obj\Debug\DiziIslemleri.pdb
